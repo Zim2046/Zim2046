@@ -1,7 +1,10 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-.. image:: https://wakatime.com/share/@TimTom2/384b6a17-389f-4c31-b40f-348b521f0cde.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@TimTom2/4143465d-cca9-4b46-95f7-8575470aaa8c.svg" width='50%' /></a>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@TimTom2/74cbd740-103b-4b51-a6fc-8e239d078352.svg" width='50%' /></a>
+
+<figure><embed src="https://wakatime.com/share/@TimTom2/2fff980e-c905-4b4d-a640-73c894a0f175.svg"></embed></figure>
 <!--END_SECTION:waka-->
 <!--
 **Zim2046/Zim2046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
