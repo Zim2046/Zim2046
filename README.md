@@ -1,8 +1,10 @@
-### Hi there 👋
-<!--START_SECTION:waka-->
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@TimTom2/4143465d-cca9-4b46-95f7-8575470aaa8c.svg" width='50%' /></a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@TimTom2/74cbd740-103b-4b51-a6fc-8e239d078352.svg" width='50%' /></a>
+<!--START_SECTION:waka-->
+<a href="https://wakatime.com" ><img src="https://wakatime.com/share/@TimTom2/4143465d-cca9-4b46-95f7-8575470aaa8c.svg" width='50%' /></a><a href="https://wakatime.com"><img src="https://wakatime.com/share/@TimTom2/c415f1b8-e773-4293-920a-d5c69425936f.svg" width='50%'/></a>
+
+<a href="https://wakatime.com" ><img src="https://wakatime.com/share/@TimTom2/74cbd740-103b-4b51-a6fc-8e239d078352.svg" width='50%' /></a><a href="https://wakatime.com" ><img src="https://wakatime.com/share/@TimTom2/c504fdf3-0ac1-4473-b635-6e1c95d5d1ac.svg" width='50%' /></a>
+
+
 
 <figure><embed src="https://wakatime.com/share/@TimTom2/2fff980e-c905-4b4d-a640-73c894a0f175.svg"></embed></figure>
 <!--END_SECTION:waka-->
