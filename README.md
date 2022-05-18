@@ -1,5 +1,5 @@
 <img
-  src="https://github.com/Zim2046/Zim2046/blob/main/images/stat.svg"
+  src="https://wakatime.com/share/@TimTom2/4143465d-cca9-4b46-95f7-8575470aaa8c.svg"
   alt="Avinal WakaTime Activity"
 />
 
