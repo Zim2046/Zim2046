@@ -1,3 +1,9 @@
+<img
+  src="https://github.com/Zim2046/Zim2046/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+
+
 
 <!--START_SECTION:waka-->
 <a href="https://wakatime.com" ><img src="https://wakatime.com/share/@TimTom2/4143465d-cca9-4b46-95f7-8575470aaa8c.svg" width='50%' /></a><a href="https://wakatime.com"><img src="https://wakatime.com/share/@TimTom2/c415f1b8-e773-4293-920a-d5c69425936f.svg" width='50%'/></a>
@@ -8,6 +14,12 @@
 
 <figure><embed src="https://wakatime.com/share/@TimTom2/2fff980e-c905-4b4d-a640-73c894a0f175.svg"></embed></figure>
 <!--END_SECTION:waka-->
+
+
+
+
+
+
 <!--
 **Zim2046/Zim2046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
