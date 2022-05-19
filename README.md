@@ -12,7 +12,7 @@
 <!--END_SECTION:waka-->
 
 
-
+<figure><embed src="https://wakatime.com/share/@TimTom2/6b033b01-4d67-4cf8-b3fd-c3722c41026a.svg"></embed></figure>
 
 
 
