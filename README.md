@@ -1,8 +1,8 @@
-#Welcome, oh conscious one. 
-- 🌱 I’m currently learning
-      * C++
-      * Machine Learning 
-      * Selenium
+<h1>Welcome, oh sentient one.</h1>
+- 🌱 I’m currently learning basic C++ and basic Machine Learning.
+<br>
+- 🔭 I’m currently working on pre-courses online from Arizona State University (ASU) for entry into their Master of Computer Science, offered through a neat collaberation between their School of Computing and Augmented Intelligence and Coursera. In between all of that, I jump into a personal side project using REACT and MongoDB. 
+
 <!--START_SECTION:waka-->
 
 <a href="https://wakatime.com" ><img src="https://wakatime.com/share/@TimTom2/e20ee2db-90d0-4edb-9756-93877bc29cb1.svg" width='50%' /></a><a href="https://wakatime.com"><img src="https://wakatime.com/share/@TimTom2/c415f1b8-e773-4293-920a-d5c69425936f.svg" width='50%'/></a>
@@ -33,7 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning
-      * C++
-      * Machine Learning 
-      * Selenium
+
