@@ -1,4 +1,4 @@
-
+#Welcome, oh conscious one. 
 - 🌱 I’m currently learning
       * C++
       * Machine Learning 
