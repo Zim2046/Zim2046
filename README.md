@@ -1,7 +1,7 @@
 <h1>Welcome, oh sentient one.</h1>
 - 🌱 I’m currently learning basic C++ and basic Machine Learning.
 <br>
-- 🔭 I’m currently working on pre-courses online from Arizona State University (ASU) for entry into their Master of Computer Science, offered through a neat collaberation between their School of Computing and Augmented Intelligence and Coursera. In between all of that, I jump into a personal side project using REACT and MongoDB. 
+- 🔭 I’m currently working on pre-courses online from Arizona State University (ASU) for entry into their Masters of Computer Science, offered through a neat collaberation between their School of Computing and Augmented Intelligence and Coursera. In between all of that, I jump into a personal side project using REACT and MongoDB. 
 
 <!--START_SECTION:waka-->
 
