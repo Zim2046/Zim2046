@@ -1,5 +1,8 @@
 
-
+- 🌱 I’m currently learning
+      * C++
+      * Machine Learning 
+      * Selenium
 <!--START_SECTION:waka-->
 
 <a href="https://wakatime.com" ><img src="https://wakatime.com/share/@TimTom2/e20ee2db-90d0-4edb-9756-93877bc29cb1.svg" width='50%' /></a><a href="https://wakatime.com"><img src="https://wakatime.com/share/@TimTom2/c415f1b8-e773-4293-920a-d5c69425936f.svg" width='50%'/></a>
