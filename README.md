@@ -1,5 +1,5 @@
 <h1>Welcome, oh sentient one.</h1>
-- 🌱 I’m currently learning basic C++ and basic Machine Learning.
+- 🌱 Currently learning C++ development and engaged in a Machine Learning Specialization course.
 <br>
 - 🔭 I’m currently working on pre-courses online from Arizona State University for entry into their Masters of Computer Science. In between all of that, I jump into a personal side project using REACT and MongoDB that allows Engineering/Science students ... or anyone really, the ability to cultivate, implement and expidite their college (or just personal) project ideas. 
 
