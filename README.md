@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on pre-courses online from Arizona State University for entry into their Masters of Computer Science. In between all of that, I jump into a personal side project using REACT and MongoDB that allows Engineering/Science students ... or anyone really, the ability to cultivate, implement and expidite their college (or just personal) project ideas. 
 
 <!--START_SECTION:waka-->
+<a align="center" href="https://wakatime.com" ><img src="https://wakatime.com/share/@TimTom2/c504fdf3-0ac1-4473-b635-6e1c95d5d1ac.svg" width='50%' /></a><a href="https://wakatime.com" ><img src="https://wakatime.com/share/@TimTom2/9200ac89-aa2f-4d33-8c4b-3db268dfea64.svg" width='50%' /></a>
 
 <a href="https://wakatime.com" ><img src="https://wakatime.com/share/@TimTom2/e20ee2db-90d0-4edb-9756-93877bc29cb1.svg" width='50%' /></a><a href="https://wakatime.com"><img src="https://wakatime.com/share/@TimTom2/c415f1b8-e773-4293-920a-d5c69425936f.svg" width='50%'/></a>
 
-<a href="https://wakatime.com" ><img src="https://wakatime.com/share/@TimTom2/74cbd740-103b-4b51-a6fc-8e239d078352.svg" width='50%' /></a><a href="https://wakatime.com" ><img src="https://wakatime.com/share/@TimTom2/c504fdf3-0ac1-4473-b635-6e1c95d5d1ac.svg" width='50%' /></a>
 
 
 
